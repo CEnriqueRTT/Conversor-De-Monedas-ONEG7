@@ -2,8 +2,8 @@
 ![Estado del proyecto](https://img.shields.io/badge/Estatus:-Completed-green)
 
 ## 🖼️ Screenshots:
-![1](https://github.com/user-attachments/assets/54701cc4-6fee-42e0-9608-c8da8182e010)
-![2](https://github.com/user-attachments/assets/6c17582c-a604-45f6-9002-9cc7f28b1de8)
+![1](https://github.com/user-attachments/assets/6e4a3ede-804b-43c2-ada7-a8f0a4dfc755)
+![2](https://github.com/user-attachments/assets/12a2a448-75c9-4d81-ac5d-31f8fe431e94)
 
 ## 🛠️ Technologies used:
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
